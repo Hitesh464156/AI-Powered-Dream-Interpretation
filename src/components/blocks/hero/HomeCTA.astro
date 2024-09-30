@@ -1,0 +1,39 @@
+---
+
+import Section from '../../ui/Section.astro'
+import Row from '../../ui/Row.astro'
+import Col from '../../ui/Col.astro'
+// import Feature from '../features/FeatureList.astro'
+import Button from '../../ui/Button.astro'
+import { Image } from 'astro:assets'
+
+
+import heroImage from '../../../assets/hero-01.png'
+---
+<Section id="intro" padding="none" classes="bg-neutral-50 dark:bg-neutral-900">
+    <Row>
+        <Col span="2" />
+        <Col span="8" align="center">
+            <br><br><h1>Exploring <strong>dream meanings</strong> and enhancing self-understanding.</h1>
+            
+            <p class="pb-0 text-lg"> Decode the hidden messages of your dreams and awaken your inner wisdom.</p>
+            <Button size="lg" link="/login">Try it out</Button><br><br>
+        </Col>
+        <Col span="2" />
+    </Row>
+</Section>
+
+<Section id="hero-image" padding="none" classes="bg-neutral-50 dark:bg-neutral-900">
+    <Row>
+        <Col span="2" />
+        <Col span="8" align="center">
+            <Image
+                src={heroImage}
+                alt="AI-powered dream analyzer tool"
+                class="max-w-full h-auto"
+                format="webp"
+            />
+        </Col>
+        <Col span="2" />
+    </Row>
+</Section>
