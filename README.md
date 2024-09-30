@@ -1,7 +1,10 @@
 ## Welcome to AnalyzeMyDream.com Repository:
 
-> [!NOTE]  
-> The release of **AnalyzeMyDream v1.3.0** is now **available**! Release Date: **23.09.2024**. This release introduces significant enhancements including new subscription plans, advanced dream analyzers, improved payment management through PayPal, and a restructured user interface for a better experience. For further details, please refer to the [v1.3.0 Release Notes](https://github.com/imprvhub/AnalyzeMyDream/releases/tag/v1.3.0).
+
+### Project Overview
+
+AnalyzeMyDream.com is an exploratory project designed to enhance self-understanding through the interpretation of dreams. In this specific version (v1.3.0), the focus is on providing insightful and research-backed interpretations of dreams, grounded in established bibliographic sources and AI integration. This version serves as a foundational tool for people to explore the meanings behind their dreams, with the aim of enriching their personal growth and self-understanding.
+
 
 ### Table of Contents
 
@@ -10,10 +13,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Feedback](#feedback)
-
-### Project Overview
-
-AnalyzeMyDream.com is an exploratory project designed to enhance self-understanding through the interpretation of dreams. In this specific version (v1.3.0), the focus is on providing insightful and research-backed interpretations of dreams, grounded in established bibliographic sources and AI integration. This version serves as a foundational tool for people to explore the meanings behind their dreams, with the aim of enriching their personal growth and self-understanding.
 
 ### Features
 
